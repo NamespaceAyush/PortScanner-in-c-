@@ -1,7 +1,7 @@
-# PortScanner-in-c-
+# PortScanner-in-c++-
 This is my first repo to git hub ---->many more to come
 
-This is the simple Port Scanner which will tell you which port is open or closed on your or website or also on 127.0.0.1 i.e on your local machine 
+This is the Port Scanner in c++ which will tell you which port is open or closed on your or website or also on 127.0.0.1 i.e on your local machine 
 but before scanning port of any website make sure they have given permission to scan the port on your website because in many countries it is ILLEGAL
 to scan the port of someone else machine.
 
