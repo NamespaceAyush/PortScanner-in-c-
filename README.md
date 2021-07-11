@@ -1,4 +1,4 @@
-# PortScanner-in-c++-
+# simple-NMap-in-c++-
 This is my first repo to git hub ---->many more to come
 
 This is the Port Scanner in c++ which will tell you which port is open or closed on any website or also on 127.0.0.1 i.e on your local machine 
